@@ -31,7 +31,7 @@
 ## 🖼️ Application Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/Снимок.png)
+![Main Interface](screenshots/Main Interface.png)
 *Professional dark-themed interface with real-time data*
 
 ## 🎯 Project Purpose
@@ -297,4 +297,5 @@ This work is protected under the Berne Convention for the Protection of Literary
 All trademarks and registered trademarks are the property of their respective owners. Reference to any third-party trademarks does not imply endorsement.
 
 ---
+
 
