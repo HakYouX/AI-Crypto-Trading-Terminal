@@ -28,11 +28,9 @@
 - [🔧 For Developers](#-for-developers)
 - [📄 Licensing and Intellectual Property](#-licensing-and-intellectual-property)
 
-## 🖼️ Application Screenshots
-
 ### Main Interface
-![Main Interface](screenshots/Main Interface.png)
-*Professional dark-themed interface with real-time data*
+![Main Interface](https://raw.githubusercontent.com/your-username/ai-crypto-trading-terminal/main/screenshots/Main.PNG)
+*Professional dark-themed interface with real-time data and AI analysis*
 
 ## 🎯 Project Purpose
 
@@ -297,5 +295,6 @@ This work is protected under the Berne Convention for the Protection of Literary
 All trademarks and registered trademarks are the property of their respective owners. Reference to any third-party trademarks does not imply endorsement.
 
 ---
+
 
 
