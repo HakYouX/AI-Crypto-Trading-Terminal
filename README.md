@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 ![Educational](https://img.shields.io/badge/Educational-Purpose-yellow.svg)
 
@@ -26,7 +26,7 @@
 - [🤖 Algorithmic Features](#-algorithmic-features)
 - [⚠️ Legal Aspects and Limitations](#️-legal-aspects-and-limitations)
 - [🔧 For Developers](#-for-developers)
-- [📄 Licensing](#-licensing)
+- [📄 Licensing and Intellectual Property](#-licensing-and-intellectual-property)
 
 ## 🎯 Project Purpose
 
@@ -36,15 +36,60 @@ This project is developed **exclusively for scientific research and educational 
 - **Principles of algorithmic analysis** of financial markets
 - **Machine learning methods** in time series forecasting
 - **Integration of AI models** with technical analysis systems
-- **Real-time financial data visualization**
+- **Visualization of financial data** in real-time
 - **Working with exchange APIs** and processing streaming data
 
 ### Research Value
 The project demonstrates practical applications of:
 - Linear regression for price predictions
 - Ensemble of technical indicators
-- Statistical market analysis methods
+- Statistical methods of market analysis
 - Design of modular fintech applications
+
+## 📄 Licensing and Intellectual Property
+
+### Copyright Notice
+**© 2024 [Danila Tychinskiy]. All Rights Reserved.**
+
+### Intellectual Property Rights
+This project and all associated intellectual property rights are **exclusively owned by the author**. This includes, but is not limited to:
+
+- **Source code** and algorithmic implementations
+- **Architectural design** and system architecture
+- **User interface** design and user experience elements
+- **Documentation** and technical specifications
+- **Research methodologies** and analytical approaches
+
+### Usage Restrictions
+**STRICTLY PROHIBITED WITHOUT EXPLICIT WRITTEN PERMISSION:**
+
+- ❌ **Commercial use** of any project components
+- ❌ **Redistribution** or republication of source code
+- ❌ **Modification** and creation of derivative works
+- ❌ **Incorporation** into other projects or products
+- ❌ **Reverse engineering** or decompilation
+- ❌ **Commercial exploitation** of research results
+
+### Permitted Uses
+**ALLOWED FOR EDUCATIONAL PURPOSES ONLY:**
+
+- ✅ **Personal education** and academic research
+- ✅ **Non-commercial study** of algorithms and methods
+- ✅ **Academic reference** with proper citation
+- ✅ **Classroom demonstrations** in educational institutions
+
+### Citation Requirements
+When referencing this work in academic or research contexts, proper attribution must include:
+- Full project name and version
+- Author's name and copyright notice
+- Link to original repository
+- Clear indication of educational use only
+
+---
+
+**For licensing inquiries or commercial use permissions, please contact: [mirav2326@gmail.com]**
+
+---
 
 ## 🌟 Key Features
 
@@ -93,7 +138,7 @@ The project demonstrates practical applications of:
 
 ### Installation and Launch
 ```bash
-# Clone repository
+# Clone repository for EDUCATIONAL PURPOSES ONLY
 git clone https://github.com/your-username/ai-crypto-trading-terminal.git
 cd ai-crypto-trading-terminal
 
@@ -171,6 +216,9 @@ ai-crypto-trading-terminal/
 ### Project Legal Status
 **ATTENTION: THIS PROJECT IS AN EXCLUSIVELY EDUCATIONAL AND RESEARCH TOOL**
 
+### Intellectual Property Protection
+This work is protected by copyright law and international treaties. Unauthorized reproduction or distribution may result in severe civil and criminal penalties.
+
 ### Disclaimer
 Developers and project participants **DO NOT ACCEPT RESPONSIBILITY** for:
 
@@ -191,6 +239,8 @@ By using this software, you confirm that:
 2. **You understand the experimental nature** of algorithmic recommendations
 3. **You accept sole responsibility** for all trading decisions
 4. **You guarantee adulthood** and legal capacity for operating on financial markets
+5. **You agree to use this software ONLY for educational purposes**
+6. **You will NOT redistribute, modify, or commercially exploit this software**
 
 ### Usage Recommendations
 1. **Use exclusively demonstration funds** for testing
@@ -208,26 +258,36 @@ By using this software, you confirm that:
 - **Extensibility** - easy integration of new algorithms and visualizations
 - **Documentation** - clear code with comments
 
-### Participation in Project Development
-We welcome contributions to the educational platform:
+### Contribution Policy
+**NOTE: This is a personal educational project. External contributions are not currently accepted.**
 
-1. Create a repository fork
-2. Develop new functionality in a separate branch
-3. Ensure test coverage and documentation
-4. Create a pull request with description of improvements
+### Research Collaboration
+For academic research collaboration inquiries:
+- Contact: [mirav2326@gmail.com]
+- Subject: "Research Collaboration - AI Crypto Terminal"
+- Include: Academic affiliation and research proposal
 
 ### Development Directions
 - [ ] Integration of additional exchange APIs
 - [ ] Implementation of advanced ML models (LSTM, Random Forest)
 - [ ] Trading strategy backtesting system
 - [ ] Mobile version of analytical platform
-- [ ] Community for exchange of research developments
+- [ ] Enhanced risk management modules
 
-## 📄 Licensing
 
-The project is distributed under the **MIT License**, which allows:
-- Free use for educational and research purposes
-- Modification and adaptation for specific tasks
-- Distribution in both original and modified forms
+**FINAL DISCLAIMER: This tool is intended exclusively for educational purposes. The source code, algorithms, and research methodologies are proprietary and protected by copyright. Any unauthorized use, reproduction, or distribution is strictly prohibited. Real trading decisions should be made based on consultations with licensed financial professionals and with full understanding of associated risks.**
 
-**IMPORTANT REMINDER: This tool is intended exclusively for educational purposes. Real trading decisions should be made based on consultations with licensed financial professionals and with full understanding of associated risks.**
+---
+
+### Additional Legal Notices
+
+**Digital Millennium Copyright Act (DMCA) Compliance**
+This project complies with DMCA provisions. Copyright infringement notifications should be sent to: [mirav2326@gmail.com]
+
+**International Copyright Protection**
+This work is protected under the Berne Convention for the Protection of Literary and Artistic Works.
+
+**Trademark Notice**
+All trademarks and registered trademarks are the property of their respective owners. Reference to any third-party trademarks does not imply endorsement.
+
+---
